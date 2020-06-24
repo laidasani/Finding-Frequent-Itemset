@@ -1,9 +1,9 @@
 # Finding-Frequent-Itemset
 
 ## Overview
-In this project, I implemented *SON Algorithm* using the Apache Spark Framework to find frequent item sets.
+In this project, I implemented **SON Algorithm** using the Apache Spark Framework to find frequent item sets.
 
-One of the major tasks is to find *all the possible combinations of the frequent itemsets* in a given input file using A-Priori algorithms. The project involves working of SON algorithm on two different datasets, one simulated dataset and one real-world generated dataset.
+One of the major tasks is to find **all the possible combinations of the frequent itemsets** in a given input file using A-Priori algorithms. The project involves working of SON algorithm on two different datasets, one simulated dataset and one real-world generated dataset.
 
 Apart from input file, 2 separate inputs are provided:
 •	**Filter threshold:** Integer that is used to filter out qualified users
